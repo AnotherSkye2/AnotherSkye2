@@ -16,7 +16,7 @@ I'm a junior software engineer with interests in game development and web design
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com)
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://wordpress.com)
-
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ## Projects
 - <img src="https://github.com/rfyiamcool/golang_logo/blob/master/png/golang_58.png" alt="unity" width="45" height="20"/> [Literary Lions](https://github.com/AnotherSkye2/literary-lions.git) - A web forum application, designed for book enthusiasts to share their thoughts and opinions about various books.
