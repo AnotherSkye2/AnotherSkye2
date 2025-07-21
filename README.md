@@ -1,7 +1,7 @@
 # Skye's Workshop  🛠️
 Welcome, welcome, have a look around!
 
-I'm a junior software engineer with interests in game development and web design. I tried programming for the very first time with an Arduino in 9th grade but I've been coding actively for about 3 years. I started studying software engineering in high school and now, I am studying at kood/Jõhvi. So far, I have completed the Go and JavaScript courses and I am currently choosing my third course. I am also currently involved in a freelance project for Viva Hotels, designing and building their website.
+I'm a junior software engineer with interests in game development and web design. I tried programming for the very first time with an Arduino in 9th grade but I've been coding actively for about 3 years. I started studying software engineering in high school and now, I am studying at kood/Jõhvi. So far, I have completed the Go and JavaScript courses and I am currently finishing the Cybersecurity module. I am also currently involved in a freelance project for Viva Hotels, designing and building their website.
 
 ## Skill set
 ### Programming languages:
