@@ -21,6 +21,7 @@ I'm a junior software engineer with interests in game development and web design
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ## Projects
+- <img src="https://devicon-website.vercel.app/api/python/original.svg" width="20" height="20"></img> [Port Prowler](https://github.com/AnotherSkye2/port-prowler) - A CLI port scanner
 - <img src="https://devicon-website.vercel.app/api/python/original.svg" width="20" height="20"></img> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> [InvisiBits](https://github.com/AnotherSkye2/invisibits) - An LSB stenography en/decoding web application
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> [Digital Detective](https://github.com/AnotherSkye2/digital-detective) - A CLI tool that scrapes the internet for data
 - <img src="https://github.com/rfyiamcool/golang_logo/blob/master/png/golang_58.png" alt="unity" width="45" height="20"/> [Literary Lions](https://github.com/AnotherSkye2/literary-lions.git) - A web forum application, designed for book enthusiasts to share their thoughts and opinions about various books.
